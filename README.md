@@ -36,8 +36,8 @@ We set a situation that a person need to find something, like keys, or wallet, i
 | :-----------: | :---: | :------------------: |    :---:   |
 |      $X$      | The horizontal position of the person |  Dependent Variable  |      L     |
 |      $Y$      | The vertical position of the person   |  Dependent Variable  |      L     |
-|     $W_1$     | The horizontal component of Brownian motion | Random Variable|   T^{-1/2}  |
-|     $W_2$     | The vertical component of Brownian motion | Random Variable|   T^{-1/2}     |
+|     W_1     | The horizontal component of Brownian motion | Random Variable|   T^{-1/2}  |
+|     W_2    | The vertical component of Brownian motion | Random Variable|   T^{-1/2}     |
 |     $v$  | The speed of the person walking in the house | parameter|    LT^{-1}  |
 |     $\sigma$  | The parameter describing how fast the person diffuse by walking with Brownian motion in the house| parameter | LT^{-1/2} |
 | $\theta$ | The angle we move while reach the boundary. | Random variable | - |
